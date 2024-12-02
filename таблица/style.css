@@ -1,0 +1,29 @@
+table{
+    width: 700px;
+    text-align: center;
+}
+caption{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1vh;
+}
+td{
+    height: 50px;
+
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.num{
+    background-color: blanchedalmond;
+    color: black;
+
+}
+.sal{
+    background-color: blue;
+}
